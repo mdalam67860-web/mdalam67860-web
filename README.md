@@ -40,20 +40,11 @@ Building projects, experimenting with modern web technologies, and turning ideas
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
+<br/>
+<br/>
 <div align="center">
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdalam67860-web/mdalam67860-web/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdalam67860-web/mdalam67860-web/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mdalam67860-web/mdalam67860-web/output/snake-light.svg" />
-</picture>
-
+<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
 </div>
-
----
-
 <!-- ===== ABOUT ===== -->
 
 <div align="center">
