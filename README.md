@@ -2,6 +2,14 @@
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/mdalam67860-web/mdalam67860-web/main/dark-2.svg" alt="Profile banner" />
+
+</div>
+
+---
+
+<div align="center">
+
 # 👋 Hi, I'm **mdalam67860-web**
 
 ### Developer • Builder • Creator
